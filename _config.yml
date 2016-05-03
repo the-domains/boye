@@ -2,6 +2,7 @@ name: Boye
 favicon: null
 layout_spectrum: 0.6832938732113689
 typography_spectrum: 0.8597205341793597
+title: Hello
 cta:
   domain: null
   bucket: null
