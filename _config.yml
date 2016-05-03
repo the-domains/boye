@@ -1,0 +1,28 @@
+name: Boye
+favicon: null
+layout_spectrum: 0.6832938732113689
+typography_spectrum: 0.8597205341793597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7717825062572956
+  lightness: 0.3270094064064324
+  saturation: 0.9475054440554231
+  rhythmicContrast: 0.4159118765965104
+purpose: []
